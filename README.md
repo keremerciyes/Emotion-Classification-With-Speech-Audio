@@ -56,3 +56,11 @@ import streamlit as st
 
 # Streamlit code to upload and classify audio files
 
+## Contributing
+
+Contributions are welcome. Feel free to fork this repository and submit pull requests for improvements or new features. Some data examples are uploaded to try. For more detailed information, refer to the provided PDF presentation.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
