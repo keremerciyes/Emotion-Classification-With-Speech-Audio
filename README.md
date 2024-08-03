@@ -49,7 +49,7 @@ This project aims to classify emotions from audio signals using a combination of
 
 The project includes a Streamlit UI for easy interaction:
 
-- Upload a `.wav` file.
+- Upload a `.wav` file inside the data folder.
 - The UI will display the true emotion label and the predicted emotion label.
 
 ```python
